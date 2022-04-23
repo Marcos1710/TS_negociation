@@ -1,0 +1,1 @@
+## Projeto realizado durante o curso de Typescript na prática
